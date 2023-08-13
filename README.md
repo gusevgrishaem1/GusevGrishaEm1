@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Grisha Gusev</h1>
+<h1 align="center">Hi 👋, I'm Grigory Gusev</h1>
 <h3 align="center">A passionate web developer from Russia</h3>
 
 - 🌱 I’m currently learning **Web, JavaScript(native and frameworks), Devops, Database(SQL and NoSQL), Java(native and frameworks)**
