@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grigory Gusev</h1>
 <h3 align="center">A passionate web developer from Russia</h3>
 
-- 🌱 I’m currently learning **Web, Golang(native and frameworks), Devops, Database(SQL and NoSQL), Java(native and frameworks)**
+- 🌱 I’m currently learning **Web Backend, Golang(native and frameworks), Devops, Database(SQL and NoSQL), Java(native and frameworks)**
 
 - 📫 How to reach me **sibrim1212@gmail.com**
 
