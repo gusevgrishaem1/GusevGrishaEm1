@@ -3,10 +3,8 @@
 
 - 🌱 I’m currently learning **Web Backend, Golang(native and frameworks), Database(SQL and NoSQL), Java(native and frameworks)**
 
-- 📫 How to reach me **sibrim1212@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
-<h2 align="left">sibrim1212@gmail.com</h2>
+<h2 align="left">gusevgrigorijem1@gmail.com</h2>
 <p align="left">
 </p>
 
