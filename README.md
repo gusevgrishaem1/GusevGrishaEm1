@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grigory Gusev</h1>
 <h3 align="center">A passionate web developer from Russia</h3>
 
-- 🌱 I’m currently learning and working as Web Developer(**JavaScript, Golang, Java, Spring, Database(SQL and NoSQL)**)
+- 🌱 I’m currently learning and working as Web Developer **JavaScript, Golang, Java, Spring, Database(SQL and NoSQL)**
 
 <h3 align="left">Connect with me:</h3>
 <h2 align="left">gusevgrigorijem1@gmail.com</h2>
